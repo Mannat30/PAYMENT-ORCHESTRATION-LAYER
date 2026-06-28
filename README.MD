@@ -7,7 +7,7 @@ The system provides secure APIs for creating and managing payments with JWT auth
 
 ---
 
-## Features
+# Features
 
 - JWT Authentication
 - Role-Based Access Control (ADMIN / USER)
